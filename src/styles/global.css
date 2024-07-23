@@ -1,0 +1,21 @@
+/* Resetting default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Applying a font and setting base styles */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+  }
+  
+  /* Basic container styling */
+  .container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
